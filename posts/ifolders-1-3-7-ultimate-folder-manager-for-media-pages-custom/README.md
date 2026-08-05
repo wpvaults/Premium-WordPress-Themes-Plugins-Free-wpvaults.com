@@ -1,12 +1,12 @@
 # iFolders 1.3.7 – Ultimate Folder Manager for Media, Pages & Custom...
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) [![Category](https://img.shields.io/badge/category-Weadown.com-orange?style=flat-square)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) [![Category](https://img.shields.io/badge/category-CodeCanyon-orange?style=flat-square)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/)
 
 [![iFolders 1.3.7 – Ultimate Folder Manager for Media, Pages & Custom...](https://wpvaults.com/wp-content/uploads/weadown-imported/437d5d7b3147673a01bd7da10bb7e670.jpg)](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/)
 
 | Field | Value |
 |-------|-------|
-| 📂 **Category** | Weadown.com |
+| 📂 **Category** | CodeCanyon |
 | 📅 **Published** | August 5, 2026 |
 | 🏷️ **Version** | 12.7.7 |
 | 🌐 **Website** | [wpvaults.com](https://wpvaults.com/ifolders-ultimate-folder-manager-for-media-pages-custom-word/) |
