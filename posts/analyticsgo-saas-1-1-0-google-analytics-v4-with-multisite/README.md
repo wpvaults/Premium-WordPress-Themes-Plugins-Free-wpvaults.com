@@ -1,12 +1,12 @@
 # AnalyticsGo SaaS 1.1.0 – Google Analytics V4 with Multisite
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) [![Category](https://img.shields.io/badge/category-Weadown.com-orange?style=flat-square)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) [![Category](https://img.shields.io/badge/category-PHP%2BSCRIPTS-orange?style=flat-square)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/)
 
 [![AnalyticsGo SaaS 1.1.0 – Google Analytics V4 with Multisite](https://wpvaults.com/wp-content/uploads/weadown-imported/56b1139ed01c0850cc2fc5b0e8d1f52d.jpg)](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/)
 
 | Field | Value |
 |-------|-------|
-| 📂 **Category** | Weadown.com |
+| 📂 **Category** | PHP SCRIPTS |
 | 📅 **Published** | August 5, 2026 |
 | 🏷️ **Version** | 12.7.7 |
 | 🌐 **Website** | [wpvaults.com](https://wpvaults.com/analyticsgo-saas-google-analytics-v4-with-multisite-wordpres/) |
