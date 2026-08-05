@@ -1,14 +1,14 @@
 # WPC Custom Related Products for WooCommerce Premium 3.2.6
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/) [![Category](https://img.shields.io/badge/category-WooCommerce-orange?style=flat-square)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/) [![Category](https://img.shields.io/badge/category-WooCommerce-orange?style=flat-square)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/)
 
-[![WPC Custom Related Products for WooCommerce Premium 3.2.6](https://wpvaults.com/wp-content/uploads/2026/08/WPC-B2B-Wholesale-Suite-for-WooCommerce-Premium-1-1.jpg)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/)
+[![WPC Custom Related Products for WooCommerce Premium 3.2.6](https://wpvaults.com/wp-content/uploads/2026/08/WPC-Custom-Related-Products-for-WooCommerce-Premium-1.jpg)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | WooCommerce |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Wpc Custom Related Products For Woocommerce Premium Wordpres -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/)**
+**[View Demo on WPVaults →](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/)
 
-**[Download WPC Custom Related Products for WooCommerce Premium 3.2.6 Free on WPVaults →](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6/)**
+**[Download WPC Custom Related Products for WooCommerce Premium 3.2.6 Free on WPVaults →](https://wpvaults.com/wpc-custom-related-products-for-woocommerce-premium-3-2-6-2/)**
 
 ## 📋 Key Features
 
