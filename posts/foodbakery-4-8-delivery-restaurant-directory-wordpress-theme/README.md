@@ -1,14 +1,14 @@
 # FoodBakery 4.8 – Delivery Restaurant Directory WordPress Theme
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/)
 
-[![FoodBakery 4.8 – Delivery Restaurant Directory WordPress Theme](https://wpvaults.com/wp-content/uploads/2026/08/foodbakery-4-6-delivery-restaurant-directory-wordpress-theme.png-1.png)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/)
+[![FoodBakery 4.8 – Delivery Restaurant Directory WordPress Theme](https://wpvaults.com/wp-content/uploads/2026/08/foodbakery-4-6-delivery-restaurant-directory-wordpress-theme.png.png)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | ThemeForest |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Foodbakery Delivery Restaurant Directory Wordpress Theme -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/)
 
-**[Download FoodBakery 4.8 – Delivery Restaurant Directory WordPress Theme Free on WPVaults →](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme-2/)**
+**[Download FoodBakery 4.8 – Delivery Restaurant Directory WordPress Theme Free on WPVaults →](https://wpvaults.com/foodbakery-4-8-delivery-restaurant-directory-wordpress-theme/)**
 
 ## 📋 Key Features
 
