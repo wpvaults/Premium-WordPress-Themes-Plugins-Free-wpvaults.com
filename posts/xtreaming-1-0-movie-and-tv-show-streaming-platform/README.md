@@ -1,12 +1,12 @@
 # Xtreaming 1.0 – Movie and TV Show Streaming Platform
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) [![Category](https://img.shields.io/badge/category-Weadown.com-orange?style=flat-square)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) [![Category](https://img.shields.io/badge/category-PHP%2BSCRIPTS-orange?style=flat-square)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/)
 
 [![Xtreaming 1.0 – Movie and TV Show Streaming Platform](https://wpvaults.com/wp-content/uploads/weadown-imported/3e41c555dc1d7363bbc8a8ec994dac1d.jpg)](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/)
 
 | Field | Value |
 |-------|-------|
-| 📂 **Category** | Weadown.com |
+| 📂 **Category** | PHP SCRIPTS |
 | 📅 **Published** | August 5, 2026 |
 | 🏷️ **Version** | 12.7.7 |
 | 🌐 **Website** | [wpvaults.com](https://wpvaults.com/xtreaming-movie-and-tv-show-streaming-platform-wordpress-plu/) |
