@@ -1,14 +1,14 @@
 # WPC Smart Recommendations for WooCommerce Premium 1.0.3
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/) [![Category](https://img.shields.io/badge/category-WooCommerce-orange?style=flat-square)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/) [![Category](https://img.shields.io/badge/category-WooCommerce-orange?style=flat-square)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/)
 
-[![WPC Smart Recommendations for WooCommerce Premium 1.0.3](https://wpvaults.com/wp-content/uploads/2026/08/WPC-Smart-Recommendations-for-WooCommerce-Premium-1.jpg)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/)
+[![WPC Smart Recommendations for WooCommerce Premium 1.0.3](https://wpvaults.com/wp-content/uploads/2026/08/WPC-Smart-Recommendations-for-WooCommerce-Premium.jpg)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | WooCommerce |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Wpc Smart Recommendations For Woocommerce Premium Wordpress -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/)
 
-**[Download WPC Smart Recommendations for WooCommerce Premium 1.0.3 Free on WPVaults →](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3-2/)**
+**[Download WPC Smart Recommendations for WooCommerce Premium 1.0.3 Free on WPVaults →](https://wpvaults.com/wpc-smart-recommendations-for-woocommerce-premium-1-0-3/)**
 
 ## 📋 Key Features
 
