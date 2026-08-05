@@ -1,14 +1,14 @@
 # WPCommander 2.6.0 – Media Library Folders for WordPress
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/) [![Category](https://img.shields.io/badge/category-CodeCanyon-orange?style=flat-square)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/) [![Category](https://img.shields.io/badge/category-CodeCanyon-orange?style=flat-square)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/)
 
-[![WPCommander 2.6.0 – Media Library Folders for WordPress](https://wpvaults.com/wp-content/uploads/2026/08/wpcommander-2-6-0-media-library-folders-for-wordpress.png-1.png)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/)
+[![WPCommander 2.6.0 – Media Library Folders for WordPress](https://wpvaults.com/wp-content/uploads/2026/08/wpcommander-2-6-0-media-library-folders-for-wordpress.png.png)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | CodeCanyon |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Wpcommander Media Library Folders For Wordpress -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/)
 
-**[Download WPCommander 2.6.0 – Media Library Folders for WordPress Free on WPVaults →](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress-2/)**
+**[Download WPCommander 2.6.0 – Media Library Folders for WordPress Free on WPVaults →](https://wpvaults.com/wpcommander-2-6-0-media-library-folders-for-wordpress/)**
 
 ## 📋 Key Features
 
