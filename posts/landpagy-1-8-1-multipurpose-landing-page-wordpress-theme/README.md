@@ -1,12 +1,12 @@
 # Landpagy 1.8.1 – Multipurpose Landing page WordPress Theme
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) [![Category](https://img.shields.io/badge/category-Weadown.com-orange?style=flat-square)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/)
 
 [![Landpagy 1.8.1 – Multipurpose Landing page WordPress Theme](https://wpvaults.com/wp-content/uploads/weadown-imported/aed49077f8baf30c6baf2d4120bf726b.jpg)](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/)
 
 | Field | Value |
 |-------|-------|
-| 📂 **Category** | Weadown.com |
+| 📂 **Category** | ThemeForest |
 | 📅 **Published** | August 5, 2026 |
 | 🏷️ **Version** | 12.7.7 |
 | 🌐 **Website** | [wpvaults.com](https://wpvaults.com/landpagy-multipurpose-landing-page-wordpress-theme-2/) |
