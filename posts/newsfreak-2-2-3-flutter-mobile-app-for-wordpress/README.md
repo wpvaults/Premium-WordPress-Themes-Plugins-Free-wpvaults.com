@@ -1,14 +1,14 @@
 # Newsfreak 2.2.3 – Flutter Mobile App for WordPress
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/) [![Category](https://img.shields.io/badge/category-Flutter-orange?style=flat-square)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/) [![Category](https://img.shields.io/badge/category-Flutter-orange?style=flat-square)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/)
 
-[![Newsfreak 2.2.3 – Flutter Mobile App for WordPress](https://wpvaults.com/wp-content/uploads/2026/08/newsfreak-2-2-3-flutter-mobile-app-for-wordpress.jpg-1.jpg)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/)
+[![Newsfreak 2.2.3 – Flutter Mobile App for WordPress](https://wpvaults.com/wp-content/uploads/2026/08/newsfreak-2-2-3-flutter-mobile-app-for-wordpress.jpg.jpg)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | Flutter |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Newsfreak Flutter Mobile App For Wordpress -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/)
 
-**[Download Newsfreak 2.2.3 – Flutter Mobile App for WordPress Free on WPVaults →](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress-2/)**
+**[Download Newsfreak 2.2.3 – Flutter Mobile App for WordPress Free on WPVaults →](https://wpvaults.com/newsfreak-2-2-3-flutter-mobile-app-for-wordpress/)**
 
 ## 📋 Key Features
 
