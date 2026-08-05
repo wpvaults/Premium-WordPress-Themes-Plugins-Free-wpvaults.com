@@ -1,12 +1,12 @@
 # AI Writer SaaS 1.0 – Powerful Automatic Content Generator Tools &...
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) [![Category](https://img.shields.io/badge/category-Weadown.com-orange?style=flat-square)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) [![Category](https://img.shields.io/badge/category-PHP%2BSCRIPTS-orange?style=flat-square)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/)
 
 [![AI Writer SaaS 1.0 – Powerful Automatic Content Generator Tools &...](https://wpvaults.com/wp-content/uploads/weadown-imported/21c612522a3bc1ffe41d3b4a05b718f2.jpg)](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/)
 
 | Field | Value |
 |-------|-------|
-| 📂 **Category** | Weadown.com |
+| 📂 **Category** | PHP SCRIPTS |
 | 📅 **Published** | August 5, 2026 |
 | 🏷️ **Version** | 12.7.7 |
 | 🌐 **Website** | [wpvaults.com](https://wpvaults.com/ai-writer-saas-powerful-automatic-content-generator-tools-wo/) |
