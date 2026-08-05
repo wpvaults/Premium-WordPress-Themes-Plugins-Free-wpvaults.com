@@ -1,12 +1,12 @@
 # Pay Secure 2.0 – A Complete Digital Wallet Solution
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) [![Category](https://img.shields.io/badge/category-Weadown.com-orange?style=flat-square)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) [![Version](https://img.shields.io/badge/version-12.7.7-informational?style=flat-square)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) [![Category](https://img.shields.io/badge/category-PHP%2BSCRIPTS-orange?style=flat-square)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/)
 
 [![Pay Secure 2.0 – A Complete Digital Wallet Solution](https://wpvaults.com/wp-content/uploads/weadown-imported/4c739b0513dca82ce97558a3f2484c7f.jpg)](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/)
 
 | Field | Value |
 |-------|-------|
-| 📂 **Category** | Weadown.com |
+| 📂 **Category** | PHP SCRIPTS |
 | 📅 **Published** | August 5, 2026 |
 | 🏷️ **Version** | 12.7.7 |
 | 🌐 **Website** | [wpvaults.com](https://wpvaults.com/pay-secure-a-complete-digital-wallet-solution-wordpress-plug/) |
