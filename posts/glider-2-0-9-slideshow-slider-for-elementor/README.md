@@ -1,14 +1,14 @@
 # Glider 2.0.9 – Slideshow & Slider for Elementor
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/) [![Category](https://img.shields.io/badge/category-CodeCanyon-orange?style=flat-square)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/) [![Category](https://img.shields.io/badge/category-CodeCanyon-orange?style=flat-square)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/)
 
-[![Glider 2.0.9 – Slideshow & Slider for Elementor](https://wpvaults.com/wp-content/uploads/2026/08/glider-2-0-9-slideshow-slider-for-elementor.jpg-1.jpg)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/)
+[![Glider 2.0.9 – Slideshow & Slider for Elementor](https://wpvaults.com/wp-content/uploads/2026/08/glider-2-0-9-slideshow-slider-for-elementor.jpg.jpg)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | CodeCanyon |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Glider Slideshow Slider For Elementor Wordpress Plugin -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/)
 
-**[Download Glider 2.0.9 – Slideshow & Slider for Elementor Free on WPVaults →](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor-2/)**
+**[Download Glider 2.0.9 – Slideshow & Slider for Elementor Free on WPVaults →](https://wpvaults.com/glider-2-0-9-slideshow-slider-for-elementor/)**
 
 ## 📋 Key Features
 
