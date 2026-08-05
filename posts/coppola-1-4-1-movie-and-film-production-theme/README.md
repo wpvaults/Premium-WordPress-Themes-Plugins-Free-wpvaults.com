@@ -1,14 +1,14 @@
 # Coppola 1.4.1 – Movie and Film Production Theme
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/)
 
-[![Coppola 1.4.1 – Movie and Film Production Theme](https://wpvaults.com/wp-content/uploads/2026/08/coppola-1-4-1-movie-and-film-production-theme.jpg-1.jpg)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/)
+[![Coppola 1.4.1 – Movie and Film Production Theme](https://wpvaults.com/wp-content/uploads/2026/08/coppola-1-4-1-movie-and-film-production-theme.jpg.jpg)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | ThemeForest |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Coppola Movie And Film Production Theme Wordpress Theme -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/)
 
-**[Download Coppola 1.4.1 – Movie and Film Production Theme Free on WPVaults →](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme-2/)**
+**[Download Coppola 1.4.1 – Movie and Film Production Theme Free on WPVaults →](https://wpvaults.com/coppola-1-4-1-movie-and-film-production-theme/)**
 
 ## 📋 Key Features
 
