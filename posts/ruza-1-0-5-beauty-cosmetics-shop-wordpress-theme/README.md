@@ -1,14 +1,14 @@
 # Ruza 1.0.5 – Beauty Cosmetics Shop WordPress Theme
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/) [![Category](https://img.shields.io/badge/category-ThemeForest-orange?style=flat-square)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/)
 
-[![Ruza 1.0.5 – Beauty Cosmetics Shop WordPress Theme](https://wpvaults.com/wp-content/uploads/2026/08/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme.png-1.png)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/)
+[![Ruza 1.0.5 – Beauty Cosmetics Shop WordPress Theme](https://wpvaults.com/wp-content/uploads/2026/08/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme.png.png)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | ThemeForest |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Ruza Beauty Cosmetics Shop Wordpress Theme -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/)
 
-**[Download Ruza 1.0.5 – Beauty Cosmetics Shop WordPress Theme Free on WPVaults →](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme-2/)**
+**[Download Ruza 1.0.5 – Beauty Cosmetics Shop WordPress Theme Free on WPVaults →](https://wpvaults.com/ruza-1-0-5-beauty-cosmetics-shop-wordpress-theme/)**
 
 ## 📋 Key Features
 
