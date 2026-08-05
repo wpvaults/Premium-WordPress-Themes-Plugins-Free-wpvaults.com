@@ -1,14 +1,14 @@
 # Smart Sections Theme Builder 1.8.0 – WPBakery Page Builder Addon
 
-[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/) [![Category](https://img.shields.io/badge/category-Add--Ons-orange?style=flat-square)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/)
+[![WPVaults](https://img.shields.io/badge/🌐_WPVaults-Visit_Post-blue?style=for-the-badge)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/) [![License](https://img.shields.io/badge/license-GPL--2.0-green?style=flat-square)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/) [![Category](https://img.shields.io/badge/category-Add--Ons-orange?style=flat-square)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/)
 
-[![Smart Sections Theme Builder 1.8.0 – WPBakery Page Builder Addon](https://wpvaults.com/wp-content/uploads/2026/08/smart-sections-theme-builder-1-7-7-wpbakery-page-builder-addon-1.jpg)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/)
+[![Smart Sections Theme Builder 1.8.0 – WPBakery Page Builder Addon](https://wpvaults.com/wp-content/uploads/2026/08/smart-sections-theme-builder-1-7-7-wpbakery-page-builder-addon.jpg)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/)
 
 | Field | Value |
 |-------|-------|
 | 📂 **Category** | Add-Ons |
 | 📅 **Published** | August 3, 2026 |
-| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/) |
+| 🌐 **Website** | [wpvaults.com](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/) |
 
 ## 📝 Description
 
@@ -16,15 +16,15 @@ Smart Sections Theme Builder Wpbakery Page Builder Addon Wor -
 
 ## 🎯 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/)
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/)
 
-**[View Demo on WPVaults →](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/)**
+**[View Demo on WPVaults →](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/)**
 
 ## ⬇️ Free Download
 
-[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/)
+[![Download Free](https://img.shields.io/badge/⬇_Download_Free-WPVaults-blue?style=for-the-badge&logo=wordpress)](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/)
 
-**[Download Smart Sections Theme Builder 1.8.0 – WPBakery Page Builder Addon Free on WPVaults →](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon-2/)**
+**[Download Smart Sections Theme Builder 1.8.0 – WPBakery Page Builder Addon Free on WPVaults →](https://wpvaults.com/smart-sections-theme-builder-1-8-0-wpbakery-page-builder-addon/)**
 
 ## 📋 Key Features
 
